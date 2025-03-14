@@ -33,7 +33,7 @@ section {
     background-image: url('img/4965007.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
-    background-color: #000000;
+    background: #000000;
     background-position: right;
     border-radius: 80px;
     width: 100%;
