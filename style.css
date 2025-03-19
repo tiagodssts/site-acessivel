@@ -203,7 +203,7 @@ h2 {
 
 
 body {
-    background-color: #f0f0f0; /* Cor do fundo */
+    background-color: #000000; /* Cor do fundo */
     background-image: url('caminho/para/imagem.jpg'); /* Imagem como fundo */
     background-size: cover; /* Faz a imagem cobrir toda a tela */
 }
