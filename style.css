@@ -199,3 +199,11 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+
+
+body {
+    background-color: #f0f0f0; /* Cor do fundo */
+    background-image: url('caminho/para/imagem.jpg'); /* Imagem como fundo */
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+}
